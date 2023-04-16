@@ -7,7 +7,8 @@
 }
 
 .portrait {
-    background-image: url("../images/bfofana02_1.png");
+    background-image: url("../images/bafodefofana.bck.homepage.50.jpg");
+    background-position: center center;
     background-size: cover;
     position: relative;
 }
